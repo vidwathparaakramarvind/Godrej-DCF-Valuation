@@ -1,0 +1,3 @@
+- Godrej Valuation Excel.xlsx : full valuation model (download to explore).
+- Godrej Valuation.pdf : screenshots of key tables (assumptions, FCF, valuation summary).
+- Notes on GCPL Valuation.csv : Notes on the valuation calculation
